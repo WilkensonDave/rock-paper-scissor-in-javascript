@@ -1,6 +1,6 @@
-![Alt text](rock1.png)
-![Alt text](rock2.png)
-![Alt text](roc3.png)
+![Alt text](rock1.PNG)
+![Alt text](rock2.PNG)
+![Alt text](roc3.PNG)
 
 # This is a simple rock paper scissor game built using HTML, CSS, and Javacript.
 
@@ -11,7 +11,7 @@
 
     # How to use querySelector.
     # I learned and practice how to handle different data types.
-    
+
         # Like when you get a data from the DOM, if it is a number, the type will be a string.
         I practice how to convert it to a number so i can work with it accordingly.
 
